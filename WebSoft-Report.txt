@@ -1,0 +1,29 @@
+﻿Assignment 1
+
+
+* Did you know before about the techniques Git, GitHub, Markdown and/or GitHub Pages?
+
+
+Yes, except for GitHub Pages. We have used Git/ GitHub since the beginning of our programme for all our projects. I have heard of Markdown, but never used it. I have heard of that while researching in our Software Engineering 2 project.
+I didn’t know about GitHub Pages before. I knew it as a term but not their purpose or what to do with them.
+
+
+
+
+* Have you ever created websites before?
+
+
+Yes! During our Software Engineering 2 project I was part of the Unit Group and our task was to create an android app and a website. I was part of the subgroup dealing with the website. 
+
+
+* Briefly explain your experience and knowledge of web application development.
+
+
+We first learned about web application in our Software Engineering 2 course and our Network Application course. We worked with web servers and applications. We learned different API , like Restful API, for web servers and how to work with them. We also worked with Java servlets and with HTML to design our web applications.
+
+
+            
+* What is your TIL for this course section?
+
+
+My TIL was the GitHub Pages. I didn’t know much about them or how to work with them. Now I know a little bit more about them and what they do.
