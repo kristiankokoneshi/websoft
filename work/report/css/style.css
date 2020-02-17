@@ -1,0 +1,22 @@
+/*
+ * Comments are written as C++ style.
+ */
+html {
+    overflow-y: scroll;
+}
+
+body {
+    margin: 8px auto;
+    background: #fff;
+    width: 700px;
+}
+
+.duck{
+  width: 128px;
+  height: 128px;
+  background-image: url(../img/wings.jpg);
+  background-size: 128px;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
