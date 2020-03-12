@@ -1,0 +1,102 @@
+{
+    "Uttagsdatum": "2020-02-06T00:50:31.6091006+01:00",
+    "Fotnot": "",
+    "Skolenheter": [
+        {
+            "Skolenhetskod": "11317784",
+            "Skolenhetsnamn": "Centralt Personal",
+            "Kommunkod": "1256",
+            "PeOrgNr": "2120000860"
+        },
+        {
+            "Skolenhetskod": "17640980",
+            "Skolenhetsnamn": "Göinge Utbildningscenter, Komvux",
+            "Kommunkod": "1256",
+            "PeOrgNr": "2120000860"
+        },
+        {
+            "Skolenhetskod": "17752023",
+            "Skolenhetsnamn": "Prästavångsskolan 4-6",
+            "Kommunkod": "1256",
+            "PeOrgNr": "2120000860"
+        },
+        {
+            "Skolenhetskod": "22701498",
+            "Skolenhetsnamn": "Prästavångsskolan F-3",
+            "Kommunkod": "1256",
+            "PeOrgNr": "2120000860"
+        },
+        {
+            "Skolenhetskod": "26599013",
+            "Skolenhetsnamn": "Färe Montessoriskola",
+            "Kommunkod": "1256",
+            "PeOrgNr": "7696004154"
+        },
+        {
+            "Skolenhetskod": "38247057",
+            "Skolenhetsnamn": "Glimåkra folkhögskola SFI",
+            "Kommunkod": "1256",
+            "PeOrgNr": "2120000860"
+        },
+        {
+            "Skolenhetskod": "38841563",
+            "Skolenhetsnamn": "Göinge utbildningscenter, SFI",
+            "Kommunkod": "1256",
+            "PeOrgNr": "2120000860"
+        },
+        {
+            "Skolenhetskod": "40044299",
+            "Skolenhetsnamn": "Mölleskolan",
+            "Kommunkod": "1256",
+            "PeOrgNr": "2120000860"
+        },
+        {
+            "Skolenhetskod": "48978921",
+            "Skolenhetsnamn": "Västerskolan",
+            "Kommunkod": "1256",
+            "PeOrgNr": "2120000860"
+        },
+        {
+            "Skolenhetskod": "81683738",
+            "Skolenhetsnamn": "Snapphaneskolan",
+            "Kommunkod": "1256",
+            "PeOrgNr": "2120000860"
+        },
+        {
+            "Skolenhetskod": "84200045",
+            "Skolenhetsnamn": "Göinge utbildningscenter, Gymnasium",
+            "Kommunkod": "1256",
+            "PeOrgNr": "2120000860"
+        },
+        {
+            "Skolenhetskod": "84902434",
+            "Skolenhetsnamn": "Göingeskolan",
+            "Kommunkod": "1256",
+            "PeOrgNr": "2120000860"
+        },
+        {
+            "Skolenhetskod": "87913800",
+            "Skolenhetsnamn": "Kviinge skola",
+            "Kommunkod": "1256",
+            "PeOrgNr": "2120000860"
+        },
+        {
+            "Skolenhetskod": "89512991",
+            "Skolenhetsnamn": "Göinge utbildningscenter, Särvux",
+            "Kommunkod": "1256",
+            "PeOrgNr": "2120000860"
+        },
+        {
+            "Skolenhetskod": "95828750",
+            "Skolenhetsnamn": "Glimåkraskolan",
+            "Kommunkod": "1256",
+            "PeOrgNr": "2120000860"
+        },
+        {
+            "Skolenhetskod": "98157215",
+            "Skolenhetsnamn": "Göinge Utbildningscenter, Yrkesvux",
+            "Kommunkod": "1256",
+            "PeOrgNr": "2120000860"
+        }
+    ]
+}
