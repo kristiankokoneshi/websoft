@@ -1,0 +1,66 @@
+{
+    "Uttagsdatum": "2020-02-06T00:51:45.3502812+01:00",
+    "Fotnot": "",
+    "Skolenheter": [
+        {
+            "Skolenhetskod": "11955366",
+            "Skolenhetsnamn": "Utbildning Nordkalotten komvux",
+            "Kommunkod": "2518",
+            "PeOrgNr": "8976005044"
+        },
+        {
+            "Skolenhetskod": "18991431",
+            "Skolenhetsnamn": "Svarträvens skola 4-9",
+            "Kommunkod": "2518",
+            "PeOrgNr": "2120002700"
+        },
+        {
+            "Skolenhetskod": "46252858",
+            "Skolenhetsnamn": "Hietaniemi Friskoleförening",
+            "Kommunkod": "2518",
+            "PeOrgNr": "8976010887"
+        },
+        {
+            "Skolenhetskod": "52690153",
+            "Skolenhetsnamn": "Gränsälvsgymnasiet ",
+            "Kommunkod": "2518",
+            "PeOrgNr": "2120002700"
+        },
+        {
+            "Skolenhetskod": "53794508",
+            "Skolenhetsnamn": "Svarträvens skola F-3",
+            "Kommunkod": "2518",
+            "PeOrgNr": "2120002700"
+        },
+        {
+            "Skolenhetskod": "58652995",
+            "Skolenhetsnamn": "Gränsälvsgymnasiet SFI",
+            "Kommunkod": "2518",
+            "PeOrgNr": "2120002700"
+        },
+        {
+            "Skolenhetskod": "69777479",
+            "Skolenhetsnamn": "Kommunal vuxenutbildning",
+            "Kommunkod": "2518",
+            "PeOrgNr": "2120002700"
+        },
+        {
+            "Skolenhetskod": "76464390",
+            "Skolenhetsnamn": "Gymnasiesärskola",
+            "Kommunkod": "2518",
+            "PeOrgNr": "2120002700"
+        },
+        {
+            "Skolenhetskod": "90707437",
+            "Skolenhetsnamn": "Svanstein skola Diamanten",
+            "Kommunkod": "2518",
+            "PeOrgNr": "2120002700"
+        },
+        {
+            "Skolenhetskod": "90805511",
+            "Skolenhetsnamn": "Tornedalens folkhögskola SFI",
+            "Kommunkod": "2518",
+            "PeOrgNr": "2120002700"
+        }
+    ]
+}

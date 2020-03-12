@@ -1,0 +1,18 @@
+#top {
+    width: 300px;
+    height: 50px;
+}
+
+#mid {
+    width: 300px;
+    height: 50px;
+}
+
+#bot {
+    width: 300px;
+    height: 50px;
+}
+
+body {
+    background-color: #C0C0C0
+}

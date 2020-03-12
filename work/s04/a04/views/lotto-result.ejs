@@ -1,0 +1,55 @@
+<h1>Lotto draft: </h1>
+
+<p>
+    <table>
+        <tr>
+            <th>1.</th>
+            <th>2.</th>
+            <th>3.</th>
+            <th>4.</th>
+            <th>5.</th>
+            <th>6.</th>
+            <th>7.</th>
+        </tr>
+        <tr>
+            <% for (var i = 0; i < draft.length ; i++) { %>
+          <%if (draft[i] == guess[i]){ %>
+              <th style= "color: red"> <%=draft[i]%></th>
+              <%}else { %>
+                <th style= "color: blue"> <%=draft[i]%></th>
+                <% } %>
+          <% } %>
+        </tr>
+    </table>
+</p>
+
+<h1>Your guess: </h1>
+
+
+<p>
+    <table>
+        <table>
+            <tr>
+                <th>1.</th>
+                <th>2.</th>
+                <th>3.</th>
+                <th>4.</th>
+                <th>5.</th>
+                <th>6.</th>
+                <th>7.</th>
+            </tr>
+
+            <tr>
+                <% for (var i = 0; i < guess.length ; i++) { %>
+              <%if (guess[i] == draft[i]){ %>
+                  <th style= "color: red"> <%=guess[i]%></th>
+                  <%}else { %>
+                    <th style= "color: blue"> <%=guess[i]%></th>
+                    <% } %>
+              <% } %>
+            </tr>
+        </table>
+    </table>
+</p>
+
+<h1>Number of correct guesses: <%=correct %></h1>

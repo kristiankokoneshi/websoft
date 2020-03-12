@@ -1,0 +1,42 @@
+{
+    "Uttagsdatum": "2020-02-06T00:51:16.2270627+01:00",
+    "Fotnot": "",
+    "Skolenheter": [
+        {
+            "Skolenhetskod": "13342436",
+            "Skolenhetsnamn": "Överkalix Friskola",
+            "Kommunkod": "2513",
+            "PeOrgNr": "8982006515"
+        },
+        {
+            "Skolenhetskod": "18624338",
+            "Skolenhetsnamn": "Komvux, SFI",
+            "Kommunkod": "2513",
+            "PeOrgNr": "2120002684"
+        },
+        {
+            "Skolenhetskod": "50308658",
+            "Skolenhetsnamn": "Strandskolan",
+            "Kommunkod": "2513",
+            "PeOrgNr": "2120002684"
+        },
+        {
+            "Skolenhetskod": "55295253",
+            "Skolenhetsnamn": "Gymnasieskolan",
+            "Kommunkod": "2513",
+            "PeOrgNr": "2120002684"
+        },
+        {
+            "Skolenhetskod": "57062315",
+            "Skolenhetsnamn": "Åkerskolan",
+            "Kommunkod": "2513",
+            "PeOrgNr": "2120002684"
+        },
+        {
+            "Skolenhetskod": "68929113",
+            "Skolenhetsnamn": "Vuxenutbildning",
+            "Kommunkod": "2513",
+            "PeOrgNr": "2120002684"
+        }
+    ]
+}
