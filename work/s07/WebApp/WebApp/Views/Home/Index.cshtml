@@ -1,0 +1,40 @@
+﻿@using WebApp.Services
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+    <table id="table">
+
+        <tr>
+            <th>Number</th>
+            <th>Owner</th>
+            <th>Balance</th>
+            <th>Label</th>
+        </tr>
+
+
+        @{
+            List<Account> accounts = FileReader.GetJson();
+
+            foreach (var account in accounts)
+            {
+                <tr>
+                    <td> @account.number</td>
+                    <td> @account.owner</td>
+                    <td> @account.balance</td>
+                    <td> @account.label</td>
+
+                </tr>
+            }
+
+
+        }
+
+    </table>
+
+
+</div>
