@@ -4,6 +4,7 @@
 
    var element = document.getElementById('duck');
 
+// Hidding and showing the duck for a certain interval
   element.addEventListener("click" ,function () {
     var offsetWidth= element.offsetWidth;
     var offsetHeight= element.offsetHeight;
@@ -11,6 +12,7 @@
     var h = window. innerHeight;
      var hidden = false;
 
+// Making the duck appear in different places inside the screen
      setInterval(function(){
     element.style.visibility = hidden ? "visible" : "hidden";
     hidden = !hidden;

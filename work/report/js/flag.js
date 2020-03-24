@@ -8,7 +8,7 @@
     var midOfFlag = document.getElementById("mid")
     var botOfFLag = document.getElementById("bot")
 
-
+// Creating the flags with their respective colors
     dutchFlag.addEventListener("click", function () {
         flagArea.style.visibility = "visible";
         topOfFlag.style.backgroundColor = 'red';
@@ -29,7 +29,8 @@
         midOfFlag.style.backgroundColor = 'blue';
         botOfFLag.style.backgroundColor = 'red';
     })
-
+    
+// Hidding the flag when user clicks on flag area
     flagArea.addEventListener("click", function () {
         flagArea.style.visibility = "hidden";
     })

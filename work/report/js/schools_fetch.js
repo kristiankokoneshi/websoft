@@ -23,9 +23,10 @@
                 fetch('data/'+kommunNr +'.json')
                     .then(res => { return res.json() })
                     .then(jsonObj => {
-
                         //  console.log(jsonObj)
 
+
+                      // Creating table and filling it with data from json file
                         var rowCount = schoolTable.rows.length;
                         for (var x = rowCount-1; x >= 0; x--) {
                             schoolTable.deleteRow(x);
